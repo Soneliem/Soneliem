@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Sonel, a Software Engineering Student that wants to get his hands into software and app development. Exploring different 
+I'm Sonel, a Software Engineering Student that wants to get my hands into software and app development. Currently exploring different technologies and trameworks by creating simple to complex applications. 
 
 
 ## Languages and Frameworks
@@ -17,6 +17,7 @@ I'm Sonel, a Software Engineering Student that wants to get his hands into softw
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat&logo=electron&logoColor=#47848F)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
 
 ## Current projects
