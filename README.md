@@ -34,5 +34,9 @@ I'm Sonel, a Software Engineering Student that wants to get my hands into softwa
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soneliem&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
 </a>
 <a style="float:right;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soneliem&layout=compact&theme=dark&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soneliem&layout=compact&theme=dark" />
 </a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soneliem&theme=dark&layout=compact" />
+</a>
+
