@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Sonel, a Software Engineering Student that wants to get my hands into software and app development. Currently exploring different technologies and trameworks by creating simple to complex applications. 
+I'm Sonel, a Software Engineering Student that wants to get my hands into software and app development. Currently exploring different technologies and frameworks by creating simple to complex applications. 
 
 
 ## Languages and Frameworks
