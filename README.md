@@ -25,15 +25,6 @@ I'm Sonel, a Software Engineering Student that wants to get my hands into softwa
 
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite&logoColor=FFA518)&nbsp;
 
-## Current projects
-<a href="https://github.com/soneliem/waiua">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soneliem&repo=waiua&theme=dark" />
-</a>
-<a href="https://github.com/soneliem/Useful-ValorantAPI-Info" style="float:right;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soneliem&repo=Useful-ValorantAPI-Info&theme=dark" />
-</a><br><br>
-
-
 ## Stats
 <a align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soneliem&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
